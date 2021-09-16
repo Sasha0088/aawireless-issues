@@ -2,6 +2,19 @@
 
 All notable changes to the firmware will be documented in this file.
 
+## [1.7.0]
+
+### Fixes
+
+- Disable gateway function of DHCP server to prevent phones from trying to route internet via AAWireless.
+- Fix a bug which makes the device forget it's settings on every boot because of the storage filling up after a few OTA updates.
+
+## [1.6.0]
+
+### Features
+
+- Add support for the E2W4 (batch 4) board.
+
 ## [1.5.0]
 
 ### Fixes
