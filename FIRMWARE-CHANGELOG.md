@@ -2,6 +2,11 @@
 
 All notable changes to the firmware will be documented in this file.
 
+## [1.7.1]
+
+### Fixes
+- Fixed a bug which made the device randomly not boot (no led).
+
 ## [1.7.0]
 
 ### Fixes
