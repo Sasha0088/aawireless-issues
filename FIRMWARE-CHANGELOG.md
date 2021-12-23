@@ -2,10 +2,18 @@
 
 All notable changes to the firmware will be documented in this file.
 
+## [1.9.0]
+
+### Features
+- Add gen 2 CS317 (rv1109) board support.
+- Factory reset is now single button press instead of 5 seconds hold.
+
 ## [1.8.0]
 
-### Fixes
+### Features
 - Unified support for all boards into one single firmware.
+
+### Fixes
 - Forced all boards to use WiFi-N (40Mhz) on 5Ghz to reduce interference issues.
 
 ## [1.7.1]
