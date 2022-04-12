@@ -2,7 +2,7 @@
 
 All notable changes to the firmware will be documented in this file.
 
-## [1.9.0]
+## [1.9.0] NOT PUBLICLY AVAILABLE
 
 ### Features
 - Add gen 2 CS317 (rv1109) board support.
