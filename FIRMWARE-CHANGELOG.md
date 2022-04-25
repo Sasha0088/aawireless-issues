@@ -3,13 +3,17 @@
 All notable changes to the firmware will be documented in this file.
 
 ## [2.0.0]
+
+### Features
 - Add WiFi client mode.
 - Add dongle mode, which removes the need for dummy Bluetooth handsfree profile. May solve issues regarding phone calls to be routed through the phone speaker and other issues.
 - Add paired phone management + prioritization.
 - Add force connection to phone.
-- Possibly fix SSL issues with some head units in intercepting mode.
 - Make possible to route the TTS audio (navigation voice) through the phone instead of head unit.
 - Add software factory reset from companion app.
+
+### Fixes
+- Possibly fix SSL issues with some head units in intercepting mode.
 - Make factory reset fully reformat the data partition, so there's no leftover stuff, this will cause the device name to change.
 
 ## [1.9.0 - 1.12.0]
