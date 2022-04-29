@@ -2,7 +2,7 @@
 
 All notable changes to the firmware will be documented in this file.
 
-## [2.0.0]
+## [2.0.0] (Rolling out in waves)
 
 ### Features
 - Add WiFi client mode.
