@@ -2,7 +2,13 @@
 
 All notable changes to the firmware will be documented in this file.
 
-## [2.0.0] (Rolling out in waves)
+## [2.0.1] Rolled out in phases
+
+### Fixes
+- Fix phone calls routed through phone speaker in normal (non-dongle) mode
+- Fix device getting "stuck" (blue LED) when wifi connection is lost (or wifi is turned off)
+
+## [2.0.0]
 
 ### Features
 - Add WiFi client mode.
