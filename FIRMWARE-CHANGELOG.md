@@ -2,7 +2,7 @@
 
 All notable changes to the firmware will be documented in this file.
 
-## [2.0.1] Rolled out in phases
+## [2.0.1]
 
 ### Fixes
 - Fix phone calls routed through phone speaker in normal (non-dongle) mode
