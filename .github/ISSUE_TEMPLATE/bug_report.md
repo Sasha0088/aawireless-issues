@@ -13,6 +13,9 @@ A clear and concise description of what the bug is.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Device name (AAWireless/AndroidAuto-AAWxxxxxxx) (please complete the following information):**
+ - Manufacturer + type
+
 **Car (please complete the following information):**
  - Manufacturer + type
 
@@ -25,3 +28,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+Please also create a bug report from the help and support section in the companion app.
